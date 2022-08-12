@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+header{
+    position:relative;
+    width: 1200px;
+    height: 100px;
+    
+    
+}
+#logo {
+    position:static;
+    top:100 px;
+    left: 100px;
+    width: 1000px;
+    height: 50px;
+    background: rgb(4, 63, 2);
+}
+#top{
+    position:relative;
+    margin: 20px auto;
+    width: 300px;
+    height:220px;
+
+}
+nav {
+position:relative;
+height: auto;
+background: greenyellow;
+}
+#top ul li{
+    position: relative;
+    float: right;
+    width: 600px;
+    height:250px;
+    background: green;
+    
+    text-align:center;
+    
+}
+#top ul li img{
+    border-radius: 80%;
+    height: 200px;
+}
+#top ul li h1 {
+     font-family: 'kaushan Script', cursive;
+}
+#top ul li p{
+    font-size: 30px;
+    margin: 100px;
+
+}
+section{
+    position: relative;
+    margin:auto;
+    width: 1200px;
+    height: 1300px;
+    background: greenyellow ;
+    }
+    section p video{
+        position: relative;
+        margin: 30px;
+        float:inline-start;
+        width: 500px;
+        height: 300px;
+    }  
+    footer p{
+        position:relative;
+        float:left;
+        background-color: blue;
+    }
+    
